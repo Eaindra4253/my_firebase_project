@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase CRUD</string>
+    <string name="label_patient_name">Enter Patient Name</string>
+    <string name="label_patient_age">Enter Patient Age</string>
+    <string name="label_patient_address">Enter Patient Address</string>
+    <string name="label_register">Register</string>
+</resources>
